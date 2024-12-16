@@ -1,0 +1,19 @@
+xx: Undergraduate Lower Division Classes
+1xx: Undergraduate Upper Divison Classes
+2xx: Graduate/PhD Classes
+
+Math:
+MATH53(Multivariable Calculus), MATH54(Linear Algebra and Differential Equations), MATH55(Discrete Mathematics) 
+MATH104(Introduction to Analysis), MATH110(Linear Algebra), MATH113(Introduction to Abstract Algebra), MATH185(Introduction to Complex Analysis)
+MATH221(Advanced Matrix Computations)
+
+Computer Science:
+CS61A(The Structure and Interpretation of Computer Programs), CS61B(Data Structures)
+CS170(Efficient Algorithms and Intractable Problems), CS189/289(Introduction to Machine Learning), CS285(Deep Reinforcement Learning)
+EECS127/227A(Optimization Models in Engineering), EECS208(Computational Principles for High-Dimensional Data Analysis)
+EECS227B(Convex Optimization), EECS227C(Convex Optimization and Approximation)
+EECS290(Design of Societal Scale Systems: Games, Incentives, Adaptation and Learning)
+
+Statistics:
+STAT133(Concepts in Computing with Data), STAT134(Concepts of Probability), STAT135(Concepts of Statistics), STAT155(Game Theory)
+
